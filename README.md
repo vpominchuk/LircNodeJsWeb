@@ -4,6 +4,8 @@ By bbtinkerer (<http://bb-tinkerer.blogspot.com/>)
 
 ## Description
 
+https://www.instructables.com/id/Raspberry-Pi-Zero-Universal-Remote/
+
 Web based universal IR remote controller using [LIRC](http://www.lirc.org) and [Node.js](https://nodejs.org/en/). Control your TV, cable box, media center, and pretty much anything that has an IR remote control from your computers', tablets', phones' browser. Also define your own macros so you can turn on all devices in one button. Make a dumb TV almost act like a smart TV by writing macros to go to different inputs. Not sure what sound level someone left the speakers at? Write a macro to turn on the device and spam the mute key for a second or two.
 
 ## Requirements
